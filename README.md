@@ -81,3 +81,4 @@ Ensure that **Hadoop is installed and working** before proceeding, as HBase depe
 ---
 🎯 **You're all set!** Happy data handling with HBase! 🎉
 
+**DONT FORGET TO HIT STAR ON TOP RIGHT OF THIS PAGE!!**
